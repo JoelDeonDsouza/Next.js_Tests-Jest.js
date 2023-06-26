@@ -1,0 +1,6 @@
+// Example test case //
+describe("hello", () => {
+  it("hello", () => {
+    expect(1).toBe(1);
+  });
+});
